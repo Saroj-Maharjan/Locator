@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "org.example.namespace.sdk-merged_res-15:/color/common_google_signin_btn_text_dark.xml",
+        "source": "org.example.namespace.sdk-play-services-base-18.5.0-5:/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "org.example.namespace.sdk-merged_res-15:/color/common_google_signin_btn_tint.xml",
+        "source": "org.example.namespace.sdk-play-services-base-18.5.0-5:/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "org.example.namespace.sdk-merged_res-15:/color/common_google_signin_btn_text_light.xml",
+        "source": "org.example.namespace.sdk-play-services-base-18.5.0-5:/color/common_google_signin_btn_text_light.xml"
+    }
+]

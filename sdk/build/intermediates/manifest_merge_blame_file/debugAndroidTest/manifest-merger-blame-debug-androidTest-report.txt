@@ -1,0 +1,36 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.example.namespace.test" >
+4
+5    <uses-sdk
+5-->/Users/sarojmaharjan/Developer/Android/LocatorSDK/sdk/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest7480982018876751105.xml:5:5-74
+6        android:maxSdkVersion="34"
+6-->[:sdk] /Users/sarojmaharjan/Developer/Android/LocatorSDK/sdk/build/intermediates/merged_manifest/debug/AndroidManifest.xml:6:9-35
+7        android:minSdkVersion="21"
+7-->/Users/sarojmaharjan/Developer/Android/LocatorSDK/sdk/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest7480982018876751105.xml:5:15-41
+8        android:targetSdkVersion="34" />
+8-->/Users/sarojmaharjan/Developer/Android/LocatorSDK/sdk/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest7480982018876751105.xml:5:42-71
+9
+10    <instrumentation
+10-->/Users/sarojmaharjan/Developer/Android/LocatorSDK/sdk/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest7480982018876751105.xml:11:5-15:76
+11        android:name="android.test.InstrumentationTestRunner"
+11-->/Users/sarojmaharjan/Developer/Android/LocatorSDK/sdk/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest7480982018876751105.xml:11:22-75
+12        android:functionalTest="false"
+12-->/Users/sarojmaharjan/Developer/Android/LocatorSDK/sdk/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest7480982018876751105.xml:14:22-52
+13        android:handleProfiling="false"
+13-->/Users/sarojmaharjan/Developer/Android/LocatorSDK/sdk/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest7480982018876751105.xml:13:22-53
+14        android:label="Tests for org.example.namespace.test"
+14-->/Users/sarojmaharjan/Developer/Android/LocatorSDK/sdk/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest7480982018876751105.xml:15:22-74
+15        android:targetPackage="org.example.namespace.test" />
+15-->/Users/sarojmaharjan/Developer/Android/LocatorSDK/sdk/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest7480982018876751105.xml:12:22-72
+16
+17    <application
+17-->/Users/sarojmaharjan/Developer/Android/LocatorSDK/sdk/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest7480982018876751105.xml:7:5-9:19
+18        android:debuggable="true"
+19        android:extractNativeLibs="true" >
+20        <uses-library android:name="android.test.runner" />
+20-->/Users/sarojmaharjan/Developer/Android/LocatorSDK/sdk/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest7480982018876751105.xml:8:9-60
+20-->/Users/sarojmaharjan/Developer/Android/LocatorSDK/sdk/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest7480982018876751105.xml:8:23-57
+21    </application>
+22
+23</manifest>

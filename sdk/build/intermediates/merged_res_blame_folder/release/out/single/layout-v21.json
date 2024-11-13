@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "org.example.namespace.sdk-merged_res-15:/layout-v21/notification_action_tombstone.xml",
+        "source": "org.example.namespace.sdk-core-1.13.1-0:/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "org.example.namespace.sdk-merged_res-15:/layout-v21/notification_template_icon_group.xml",
+        "source": "org.example.namespace.sdk-core-1.13.1-0:/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "org.example.namespace.sdk-merged_res-15:/layout-v21/notification_action.xml",
+        "source": "org.example.namespace.sdk-core-1.13.1-0:/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "org.example.namespace.sdk-merged_res-15:/layout-v21/notification_template_custom_big.xml",
+        "source": "org.example.namespace.sdk-core-1.13.1-0:/layout-v21/notification_template_custom_big.xml"
+    }
+]

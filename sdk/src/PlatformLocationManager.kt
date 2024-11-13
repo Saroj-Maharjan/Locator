@@ -1,0 +1,3 @@
+package com.sawrose.locator
+
+interface PlatformLocationManager: LocationManager

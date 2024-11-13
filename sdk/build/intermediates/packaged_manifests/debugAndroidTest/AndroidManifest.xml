@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.example.namespace.test" >
+
+    <uses-sdk
+        android:maxSdkVersion="34"
+        android:minSdkVersion="21"
+        android:targetSdkVersion="34" />
+
+    <instrumentation
+        android:name="android.test.InstrumentationTestRunner"
+        android:functionalTest="false"
+        android:handleProfiling="false"
+        android:label="Tests for org.example.namespace.test"
+        android:targetPackage="org.example.namespace.test" />
+
+    <application
+        android:debuggable="true"
+        android:extractNativeLibs="true" >
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+</manifest>

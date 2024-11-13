@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sarojmaharjan/Developer/Android/LocatorSDK/sdk/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest5584309595132460422.xml:2:13-83
+INJECTED from /Users/sarojmaharjan/Developer/Android/LocatorSDK/sdk/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest5584309595132460422.xml:2:13-83
+	package
+		INJECTED from /Users/sarojmaharjan/Developer/Android/LocatorSDK/sdk/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest5584309595132460422.xml
+	xmlns:android
+		ADDED from /Users/sarojmaharjan/Developer/Android/LocatorSDK/sdk/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest5584309595132460422.xml:2:23-81
+uses-sdk
+INJECTED from /Users/sarojmaharjan/Developer/Android/LocatorSDK/sdk/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest5584309595132460422.xml reason: use-sdk injection requested
+INJECTED from /Users/sarojmaharjan/Developer/Android/LocatorSDK/sdk/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest5584309595132460422.xml
+INJECTED from /Users/sarojmaharjan/Developer/Android/LocatorSDK/sdk/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest5584309595132460422.xml
+	android:targetSdkVersion
+		INJECTED from /Users/sarojmaharjan/Developer/Android/LocatorSDK/sdk/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest5584309595132460422.xml
+	android:minSdkVersion
+		INJECTED from /Users/sarojmaharjan/Developer/Android/LocatorSDK/sdk/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest5584309595132460422.xml

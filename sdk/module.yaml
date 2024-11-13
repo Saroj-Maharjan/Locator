@@ -1,0 +1,15 @@
+product:
+  type: lib
+  platforms: [jvm, android, iosArm64, iosSimulatorArm64, iosX64]
+
+dependencies:
+  - $libs.kotlinx.coroutines.core
+  - $libs.uuid
+  - $libs.kermit
+
+dependencies@android:
+  - $libs.kotlinx.coroutines.android
+  - $libs.play.services.location
+  - $libs.androidx.core
+  - $libs.androidx.startup
+  - $libs.atomicfu
