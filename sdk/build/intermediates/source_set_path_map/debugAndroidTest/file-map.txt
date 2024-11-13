@@ -1,5 +1,0 @@
-org.example.namespace.test.sdk-androidTest-0 /Users/sarojmaharjan/Developer/Android/LocatorSDK/sdk/build/generated/res/resValues/androidTest/debug
-org.example.namespace.test.sdk-mergeDebugAndroidTestResources-1 /Users/sarojmaharjan/Developer/Android/LocatorSDK/sdk/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
-org.example.namespace.test.sdk-mergeDebugAndroidTestResources-2 /Users/sarojmaharjan/Developer/Android/LocatorSDK/sdk/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
-org.example.namespace.test.sdk-merged_res-3 /Users/sarojmaharjan/Developer/Android/LocatorSDK/sdk/build/intermediates/merged_res/debugAndroidTest
-org.example.namespace.test.sdk-packaged_res-4 /Users/sarojmaharjan/Developer/Android/LocatorSDK/sdk/build/intermediates/packaged_res/debug

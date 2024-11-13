@@ -1,6 +1,0 @@
-[
-    {
-        "merged": "org.example.namespace.sdk-merged_res-15:/drawable-v21/notification_action_background.xml",
-        "source": "org.example.namespace.sdk-core-1.13.1-0:/drawable-v21/notification_action_background.xml"
-    }
-]

@@ -1,5 +1,0 @@
-framework module "kotlin" {
-    umbrella header "kotlin.h"
-    export *
-    module * { export * }
-}
