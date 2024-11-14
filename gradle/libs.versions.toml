@@ -10,7 +10,7 @@ jvm-toolchain = "11"
 kermit = "2.0.4"
 kotlin = "2.0.21-488"
 kotlinter = "4.4.1"
-maven-publish = "0.29.0"
+maven-publish = "0.30.0"
 playServicesLocation = "21.3.0"
 startup = "1.2.0"
 
